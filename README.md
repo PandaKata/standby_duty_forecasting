@@ -1,6 +1,39 @@
 
  # Task: Credit Card Routing for Online Purchase via Predictive Modelling
 
+### structure
+
+$ pwd
+/Users/kata/Desktop/GitHub/credit_card_routing
+
+$ ls
+|- notebooks/
+   |- EDA.ipynb
+   |- 02-second-logical-notebook.ipynb
+   |- prototype-notebook.ipynb
+   |- archive/
+      |- no-longer-useful.ipynb
+|- credt_card_routing_project/          <- all things refactored out of notebooks
+   |- __init__.py                       <- import functions and variables into our notebooks and scripts 
+   |- config.py                         <- special paths and variables used across the project
+   |- setup.py                          <- file for the custom Python package (called credt_card_routing_project)
+|- README.md
+|- data/
+   |- raw/
+   |- processed/
+   |- cleaned/
+|- scripts/ ??
+   |- script1.py
+   |- script2.py
+   |- archive/
+      |- no-longer-useful.py
+|- models
+   |- baseline_model.py
+   |- final_model.py
+|- brainsorming
+
+
+
  ### aim
  Help the business to automate the credit card routing via a predictive model. Such a model should increase the payment success rate by finding the best possible PSP for each transaction and at the same time keep the transaction fees low.
 
