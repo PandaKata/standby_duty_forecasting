@@ -30,7 +30,9 @@ $ ls
 |- models
    |- baseline_model.py
    |- final_model.py
-|- brainsorming
+|- brainstorming
+   |- basline_model.md
+   |- final_model.md
 
 
 
