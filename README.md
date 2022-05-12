@@ -8,18 +8,13 @@ $ pwd
 /Users/kata/Desktop/GitHub/credit_card_routing
 
 
+'''bash
 $ ls
-
 |- notebooks/
-
    |- EDA.ipynb
-
    |- 02-second-logical-notebook.ipynb
-
    |- prototype-notebook.ipynb
-
-   |- archive/
-   
+   |- archive/  
       |- no-longer-useful.ipynb
 |- credt_card_routing_project/          <- all things refactored out of notebooks
    |- __init__.py                       <- import functions and variables into our notebooks and scripts 
@@ -42,7 +37,7 @@ $ ls
    |- basline_model.md
    |- final_model.md
 
-
+'''
 
  ### aim
  Help the business to automate the credit card routing via a predictive model. Such a model should increase the payment success rate by finding the best possible PSP for each transaction and at the same time keep the transaction fees low.
