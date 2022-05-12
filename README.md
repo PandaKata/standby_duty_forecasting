@@ -4,14 +4,22 @@
 ### structure
 
 $ pwd
+
 /Users/kata/Desktop/GitHub/credit_card_routing
 
+
 $ ls
+
 |- notebooks/
+
    |- EDA.ipynb
+
    |- 02-second-logical-notebook.ipynb
+
    |- prototype-notebook.ipynb
+
    |- archive/
+   
       |- no-longer-useful.ipynb
 |- credt_card_routing_project/          <- all things refactored out of notebooks
    |- __init__.py                       <- import functions and variables into our notebooks and scripts 
