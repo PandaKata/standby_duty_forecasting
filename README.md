@@ -8,7 +8,7 @@ $ pwd
 /Users/kata/Desktop/GitHub/credit_card_routing
 
 
-'''bash
+```bash
 $ ls
 |- notebooks/
    |- EDA.ipynb
@@ -37,7 +37,7 @@ $ ls
    |- basline_model.md
    |- final_model.md
 
-'''
+```
 
  ### aim
  Help the business to automate the credit card routing via a predictive model. Such a model should increase the payment success rate by finding the best possible PSP for each transaction and at the same time keep the transaction fees low.
