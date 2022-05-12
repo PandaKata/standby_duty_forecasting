@@ -3,12 +3,10 @@
 
 ### structure
 
-$ pwd
-
-/Users/kata/Desktop/GitHub/credit_card_routing
-
 
 ```bash
+$ pwd
+/Users/kata/Desktop/GitHub/credit_card_routing
 $ ls
 |- notebooks/
    |- EDA.ipynb
