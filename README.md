@@ -39,6 +39,12 @@ $ ls
 
 ```
 
+---
+structure is based on "How to organize your Python data science project
+" by [Eric Ma](https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510#file-ds-project-organization-md) and [Cookiecutter Data Science
+](http://drivendata.github.io/cookiecutter-data-science/).
+---
+
  ### aim
  Help the business to automate the credit card routing via a predictive model. Such a model should increase the payment success rate by finding the best possible PSP for each transaction and at the same time keep the transaction fees low.
 
