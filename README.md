@@ -1,5 +1,5 @@
 
- # Task: Credit Card Routing for Online Purchase via Predictive Modelling
+ # Task: Automation of Standby Duty Planning for Rescue Drivers via a Forecasting Model
 
 ### structure
 
@@ -14,10 +14,10 @@ $ ls
    |- prototype-notebook.ipynb
    |- archive/  
       |- no-longer-useful.ipynb
-|- credt_card_routing_project/          <- all things refactored out of notebooks
+|- standby_project/                     <- all things refactored out of notebooks
    |- __init__.py                       <- import functions and variables into our notebooks and scripts 
    |- config.py                         <- special paths and variables used across the project
-   |- setup.py                          <- file for the custom Python package (called credt_card_routing_project)
+   |- setup.py                          <- file for the custom Python package (called standby_project)
 |- README.md
 |- data/
    |- raw/
@@ -32,7 +32,7 @@ $ ls
    |- baseline_model.py
    |- final_model.py
 |- brainstorming
-   |- basline_model.md
+   |- baseline_model.md
    |- final_model.md
 
 ```
@@ -44,7 +44,7 @@ structure is based on "How to organize your Python data science project
 - - -
 
  ### aim
- Help the business to automate the credit card routing via a predictive model. Such a model should increase the payment success rate by finding the best possible PSP for each transaction and at the same time keep the transaction fees low.
+ Help the HR department with planning to estimate the amount of daily standby rescue drivers via a prediction model more efficiently. Here, efficient means that the percentage of standbys being activated is higher than in the current approach of keeping 90 drivers on hold. It also means that situations with not enough standbys should occur less often than in the current approach. Note that the plan must be finished on the 15th of the current month for the upcoming month.
 
  ### steps:
  1, Structure the project via the CRISP-DM or Team DS methodologies and give a recommendation of how a git repository for the project could look like.
@@ -58,27 +58,16 @@ structure is based on "How to organize your Python data science project
  5, give a proposal of how your model could be used by the business in everyday work, for instance, via a graphical user interface (GUI).
 
 
-
- ### list of PSPs (=payments service providers) and service fees:
-
- | name      | fee_success | fee_failure |
- |-----------|-------------|-------------|
- | Moneycard | 5 Euro      | 2 Euro      |
- | Goldcard  | 10 Euro     | 5 Euro      |
- | UK_Card   | 3 Euro      | 1 Euro      |
- | Simplecard| 1 Euro      | 0.5 Euro    |
-
-
-
 ### column description
- – tmsp: timestamp of transaction
- – country: country of transaction
- – amount: transaction amount
- – success: is 1 if payment is successful
- – PSP: name of payments service provider
- – 3D_secured: is 1 if customer is 3D identified (i.e. more secure online credit card payments)
- – card: credit card provider (Master, Visa, Diners)
+ – date: entry date
+ – n_sick: number of drivers called sick on duty
+ – calls: number of emergency calls 
+ – n_duty: number of drivers on duty available
+ – n_sby: number of standby resources available
+ – sby_need: number of standbys, which are activated on a given day
+ – dafted: number of additional drivers needed due to not enough standbys
 
 
  ### additional info
- Many transactions fail at the first try. Therefore, customers try several times to transfer the money. If two transactions are within one minute, with the same amount of money and from the same country, it is (for a decent number of tries) safe to assume that they are payment attempts of the same purchase. Consider this possibility of several payment attempts of the same purchase in your machine learning model!
+ Business claims, that having a daily fixed number of standbys (n_sby = 90) is not efficient because there are days with too many standbys followed by days with not enough standbys. The business aims at a more dynamical standby allocation, which takes seasonal patterns into account.
+ The model should minimize dates with not enough standby drivers at hand!
