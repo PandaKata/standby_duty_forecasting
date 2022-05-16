@@ -71,5 +71,7 @@ more info: https://github.com/SaundaryaB/Forecasting-Resources-Requirement/blob/
 
 
  ### additional info
+ As colleagues from the planning claim, there are seasonal patterns - for instance, during winter months more rescue drivers call sick – which are not incorporated into the current approach. Moreover, sometimes there are not enough rescue drivers even when all 90 standby-bys are activated, so that drivers are called for work even on their days off.
+
  Business claims, that having a daily fixed number of standbys (n_sby = 90) is not efficient because there are days with too many standbys followed by days with not enough standbys. The business aims at a more dynamical standby allocation, which takes seasonal patterns into account.
  The model should minimize dates with not enough standby drivers at hand!
