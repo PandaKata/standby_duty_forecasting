@@ -41,6 +41,8 @@ $ ls
 structure is based on "How to organize your Python data science project
 " by [Eric Ma](https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510#file-ds-project-organization-md) and [Cookiecutter Data Science
 ](http://drivendata.github.io/cookiecutter-data-science/).
+
+more info: https://github.com/SaundaryaB/Forecasting-Resources-Requirement/blob/master/final.ipynb
 - - -
 
  ### aim
