@@ -1,0 +1,52 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1654967357997,
+        "children": [],
+        "todo": {
+          "content": "read https://www.kaggle.com/code/iamleonie/intro-to-time-series-forecasting/notebook",
+          "id": 1654967357997,
+          "level": "warning",
+          "done": false
+        }
+      },
+      {
+        "key": 1654967387637,
+        "children": [],
+        "todo": {
+          "content": "read https://github.com/amitrani6/time-series-examples/blob/master/time_series_removing_trends_and_decomposition.ipynb",
+          "id": 1654967387637,
+          "level": "success",
+          "done": false
+        }
+      },
+      {
+        "key": 1654967417118,
+        "children": [],
+        "todo": {
+          "content": "read https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b",
+          "id": 1654967417118,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1654967476787,
+        "children": [],
+        "todo": {
+          "content": "SARIMA with calls",
+          "id": 1654967476787,
+          "level": "default",
+          "done": false
+        }
+      }
+    ],
+    "expandKeys": [],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "showLine": false,
+    "playFontSize": 24
+  }
+}
