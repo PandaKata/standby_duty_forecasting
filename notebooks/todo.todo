@@ -12,6 +12,26 @@
         }
       },
       {
+        "key": 1655128715700,
+        "children": [],
+        "todo": {
+          "content": "scale calls & sby_need?",
+          "id": 1655128715700,
+          "level": "danger",
+          "done": false
+        }
+      },
+      {
+        "key": 1655129005745,
+        "children": [],
+        "todo": {
+          "content": "set index when data is read",
+          "id": 1655129005745,
+          "level": "success",
+          "done": false
+        }
+      },
+      {
         "key": 1654967476787,
         "children": [],
         "todo": {
@@ -51,7 +71,7 @@
               "content": "read https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b",
               "id": 1654967708904,
               "level": "default",
-              "done": false
+              "done": true
             }
           },
           {
