@@ -25,7 +25,7 @@
         "key": 1655129005745,
         "children": [],
         "todo": {
-          "content": "set index when data is read",
+          "content": "set index when data is read https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6",
           "id": 1655129005745,
           "level": "success",
           "done": false
