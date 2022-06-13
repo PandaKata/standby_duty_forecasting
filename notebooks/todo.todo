@@ -22,6 +22,16 @@
         }
       },
       {
+        "key": 1655145173666,
+        "children": [],
+        "todo": {
+          "content": "plot diagnostics besprechen, correlogram?",
+          "id": 1655145173666,
+          "level": "warning",
+          "done": false
+        }
+      },
+      {
         "key": 1655129005745,
         "children": [],
         "todo": {
@@ -81,7 +91,7 @@
               "content": "read https://www.kaggle.com/code/parulpandey/getting-started-with-time-series-using-pandas/notebook",
               "id": 1654969168549,
               "level": "default",
-              "done": false
+              "done": true
             }
           },
           {
@@ -91,7 +101,7 @@
               "content": "read https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/notebook",
               "id": 1654969199688,
               "level": "default",
-              "done": false
+              "done": true
             }
           }
         ],
@@ -99,7 +109,7 @@
           "content": "read",
           "id": 1654967645539,
           "level": "warning",
-          "done": false
+          "done": true
         }
       },
       {
