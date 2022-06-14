@@ -42,84 +42,13 @@
         }
       },
       {
-        "key": 1654967476787,
+        "key": 1655237499373,
         "children": [],
         "todo": {
-          "content": "SARIMA with calls",
-          "id": 1654967476787,
+          "content": "regression neu",
+          "id": 1655237499373,
           "level": "default",
-          "done": true
-        }
-      },
-      {
-        "key": 1654967645539,
-        "children": [
-          {
-            "key": 1654967653302,
-            "children": [],
-            "todo": {
-              "content": "read https://www.kaggle.com/code/iamleonie/intro-to-time-series-forecasting/notebook",
-              "id": 1654967653302,
-              "level": "warning",
-              "done": true
-            }
-          },
-          {
-            "key": 1654967691049,
-            "children": [],
-            "todo": {
-              "content": "read https://github.com/amitrani6/time-series-examples/blob/master/time_series_removing_trends_and_decomposition.ipynb",
-              "id": 1654967691049,
-              "level": "success",
-              "done": true
-            }
-          },
-          {
-            "key": 1654967708904,
-            "children": [],
-            "todo": {
-              "content": "read https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b",
-              "id": 1654967708904,
-              "level": "default",
-              "done": true
-            }
-          },
-          {
-            "key": 1654969168549,
-            "children": [],
-            "todo": {
-              "content": "read https://www.kaggle.com/code/parulpandey/getting-started-with-time-series-using-pandas/notebook",
-              "id": 1654969168549,
-              "level": "default",
-              "done": true
-            }
-          },
-          {
-            "key": 1654969199688,
-            "children": [],
-            "todo": {
-              "content": "read https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/notebook",
-              "id": 1654969199688,
-              "level": "default",
-              "done": true
-            }
-          }
-        ],
-        "todo": {
-          "content": "read",
-          "id": 1654967645539,
-          "level": "warning",
-          "done": true
-        }
-      },
-      {
-        "key": 1654972023574,
-        "children": [],
-        "todo": {
-          "content": "ACF & PACF https://www.kaggle.com/code/iamleonie/time-series-interpreting-acf-and-pacf/notebook",
-          "id": 1654972023574,
-          "level": "success",
-          "done": true
+          "done": false
         }
       }
     ],
