@@ -60,6 +60,16 @@
           "level": "danger",
           "done": false
         }
+      },
+      {
+        "key": 1655646213806,
+        "children": [],
+        "todo": {
+          "content": "make data stationary https://towardsdatascience.com/how-to-remove-non-stationarity-in-time-series-forecasting-563c05c4bfc7",
+          "id": 1655646213806,
+          "level": "danger",
+          "done": false
+        }
       }
     ],
     "expandKeys": [
