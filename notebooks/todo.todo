@@ -8,7 +8,7 @@
           "content": "enforce stationarity??",
           "id": 1655128445562,
           "level": "danger",
-          "done": false
+          "done": true
         }
       },
       {
@@ -18,7 +18,7 @@
           "content": "scale calls & sby_need?",
           "id": 1655128715700,
           "level": "danger",
-          "done": false
+          "done": true
         }
       },
       {
@@ -47,7 +47,17 @@
         "todo": {
           "content": "regression neu",
           "id": 1655237499373,
-          "level": "default",
+          "level": "danger",
+          "done": false
+        }
+      },
+      {
+        "key": 1655632078332,
+        "children": [],
+        "todo": {
+          "content": "random forest",
+          "id": 1655632078332,
+          "level": "danger",
           "done": false
         }
       }
