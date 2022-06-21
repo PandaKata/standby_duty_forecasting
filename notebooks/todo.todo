@@ -2,26 +2,6 @@
   "todotree": {
     "tree": [
       {
-        "key": 1655128445562,
-        "children": [],
-        "todo": {
-          "content": "enforce stationarity??",
-          "id": 1655128445562,
-          "level": "danger",
-          "done": true
-        }
-      },
-      {
-        "key": 1655128715700,
-        "children": [],
-        "todo": {
-          "content": "scale calls & sby_need?",
-          "id": 1655128715700,
-          "level": "danger",
-          "done": true
-        }
-      },
-      {
         "key": 1655145173666,
         "children": [],
         "todo": {
@@ -38,16 +18,6 @@
           "content": "set index when data is read https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6",
           "id": 1655129005745,
           "level": "success",
-          "done": false
-        }
-      },
-      {
-        "key": 1655237499373,
-        "children": [],
-        "todo": {
-          "content": "regression neu",
-          "id": 1655237499373,
-          "level": "danger",
           "done": true
         }
       },
@@ -58,7 +28,7 @@
           "content": "random forest",
           "id": 1655632078332,
           "level": "danger",
-          "done": false
+          "done": true
         }
       },
       {
@@ -70,12 +40,75 @@
           "level": "danger",
           "done": false
         }
+      },
+      {
+        "key": 1655815376300,
+        "children": [
+          {
+            "key": 1655815384616,
+            "children": [],
+            "todo": {
+              "content": "Wochentag",
+              "id": 1655815384616,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1655815397053,
+            "children": [],
+            "todo": {
+              "content": "Woche im Jahr",
+              "id": 1655815397053,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1655815407064,
+            "children": [],
+            "todo": {
+              "content": "Monat",
+              "id": 1655815407064,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1655815414799,
+            "children": [],
+            "todo": {
+              "content": "Jahr",
+              "id": 1655815414799,
+              "level": "default",
+              "done": false
+            }
+          },
+          {
+            "key": 1655815511491,
+            "children": [],
+            "todo": {
+              "content": "Differenz: n_duty - n_sick",
+              "id": 1655815511491,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "neue Variablen",
+          "id": 1655815376300,
+          "level": "default",
+          "done": false
+        }
       }
     ],
     "expandKeys": [
       1654967633853,
       1654967645539,
-      1654967653302
+      1654967653302,
+      1655815376300,
+      1655815384616
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
