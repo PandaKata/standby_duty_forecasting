@@ -12,26 +12,6 @@
         }
       },
       {
-        "key": 1655129005745,
-        "children": [],
-        "todo": {
-          "content": "set index when data is read https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6",
-          "id": 1655129005745,
-          "level": "success",
-          "done": true
-        }
-      },
-      {
-        "key": 1655632078332,
-        "children": [],
-        "todo": {
-          "content": "random forest",
-          "id": 1655632078332,
-          "level": "danger",
-          "done": true
-        }
-      },
-      {
         "key": 1655646213806,
         "children": [],
         "todo": {
@@ -43,61 +23,20 @@
       },
       {
         "key": 1655815376300,
-        "children": [
-          {
-            "key": 1655815384616,
-            "children": [],
-            "todo": {
-              "content": "Wochentag",
-              "id": 1655815384616,
-              "level": "default",
-              "done": false
-            }
-          },
-          {
-            "key": 1655815397053,
-            "children": [],
-            "todo": {
-              "content": "Woche im Jahr",
-              "id": 1655815397053,
-              "level": "default",
-              "done": false
-            }
-          },
-          {
-            "key": 1655815407064,
-            "children": [],
-            "todo": {
-              "content": "Monat",
-              "id": 1655815407064,
-              "level": "default",
-              "done": false
-            }
-          },
-          {
-            "key": 1655815414799,
-            "children": [],
-            "todo": {
-              "content": "Jahr",
-              "id": 1655815414799,
-              "level": "default",
-              "done": false
-            }
-          },
-          {
-            "key": 1655815511491,
-            "children": [],
-            "todo": {
-              "content": "Differenz: n_duty - n_sick",
-              "id": 1655815511491,
-              "level": "default",
-              "done": false
-            }
-          }
-        ],
+        "children": [],
         "todo": {
           "content": "neue Variablen",
           "id": 1655815376300,
+          "level": "default",
+          "done": true
+        }
+      },
+      {
+        "key": 1655820246968,
+        "children": [],
+        "todo": {
+          "content": "Random Forest Feature Selection",
+          "id": 1655820246968,
           "level": "default",
           "done": false
         }
