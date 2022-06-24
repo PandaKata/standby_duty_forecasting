@@ -7,7 +7,7 @@
         "todo": {
           "content": "plot diagnostics besprechen, correlogram?",
           "id": 1655145173666,
-          "level": "warning",
+          "level": "secondary",
           "done": false
         }
       },
@@ -17,7 +17,7 @@
         "todo": {
           "content": "make data stationary https://towardsdatascience.com/how-to-remove-non-stationarity-in-time-series-forecasting-563c05c4bfc7",
           "id": 1655646213806,
-          "level": "danger",
+          "level": "secondary",
           "done": false
         }
       },
@@ -27,7 +27,27 @@
         "todo": {
           "content": "Random Forest Feature Selection",
           "id": 1655820246968,
-          "level": "default",
+          "level": "warning",
+          "done": false
+        }
+      },
+      {
+        "key": 1656063252314,
+        "children": [],
+        "todo": {
+          "content": "Permutation Feature Importance?",
+          "id": 1656063252314,
+          "level": "danger",
+          "done": false
+        }
+      },
+      {
+        "key": 1656063315356,
+        "children": [],
+        "todo": {
+          "content": "read https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/",
+          "id": 1656063315356,
+          "level": "danger",
           "done": false
         }
       }
