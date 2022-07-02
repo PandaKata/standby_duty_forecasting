@@ -22,33 +22,23 @@
         }
       },
       {
-        "key": 1655820246968,
+        "key": 1656782248005,
         "children": [],
         "todo": {
-          "content": "Random Forest Feature Selection",
-          "id": 1655820246968,
-          "level": "warning",
+          "content": "SARIMA calls",
+          "id": 1656782248005,
+          "level": "danger",
           "done": false
         }
       },
       {
-        "key": 1656063252314,
+        "key": 1656782254981,
         "children": [],
         "todo": {
-          "content": "Permutation Feature Importance?",
-          "id": 1656063252314,
+          "content": "SARIMA was ist noch wichtig",
+          "id": 1656782254981,
           "level": "danger",
-          "done": true
-        }
-      },
-      {
-        "key": 1656063315356,
-        "children": [],
-        "todo": {
-          "content": "read https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/",
-          "id": 1656063315356,
-          "level": "danger",
-          "done": true
+          "done": false
         }
       }
     ],
