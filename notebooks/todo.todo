@@ -20,36 +20,6 @@
           "level": "secondary",
           "done": false
         }
-      },
-      {
-        "key": 1656782248005,
-        "children": [],
-        "todo": {
-          "content": "SARIMA calls",
-          "id": 1656782248005,
-          "level": "danger",
-          "done": true
-        }
-      },
-      {
-        "key": 1656782254981,
-        "children": [],
-        "todo": {
-          "content": "SARIMA was ist noch wichtig",
-          "id": 1656782254981,
-          "level": "danger",
-          "done": true
-        }
-      },
-      {
-        "key": 1657444005977,
-        "children": [],
-        "todo": {
-          "content": "Modell Calls UND n_sick",
-          "id": 1657444005977,
-          "level": "danger",
-          "done": true
-        }
       }
     ],
     "expandKeys": [
