@@ -18,6 +18,16 @@
           "content": "make data stationary https://towardsdatascience.com/how-to-remove-non-stationarity-in-time-series-forecasting-563c05c4bfc7",
           "id": 1655646213806,
           "level": "secondary",
+          "done": true
+        }
+      },
+      {
+        "key": 1658236656896,
+        "children": [],
+        "todo": {
+          "content": "sby_need with predicted n_sick: LR",
+          "id": 1658236656896,
+          "level": "danger",
           "done": false
         }
       }
