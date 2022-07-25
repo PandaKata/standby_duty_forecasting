@@ -12,16 +12,6 @@
         }
       },
       {
-        "key": 1655646213806,
-        "children": [],
-        "todo": {
-          "content": "make data stationary https://towardsdatascience.com/how-to-remove-non-stationarity-in-time-series-forecasting-563c05c4bfc7",
-          "id": 1655646213806,
-          "level": "secondary",
-          "done": true
-        }
-      },
-      {
         "key": 1658236656896,
         "children": [],
         "todo": {
@@ -32,42 +22,12 @@
         }
       },
       {
-        "key": 1658240570107,
-        "children": [],
-        "todo": {
-          "content": "Was für Parameter hat Random Forest?",
-          "id": 1658240570107,
-          "level": "danger",
-          "done": true
-        }
-      },
-      {
-        "key": 1658240571725,
-        "children": [],
-        "todo": {
-          "content": "Parameter linear Regression?",
-          "id": 1658240571725,
-          "level": "warning",
-          "done": true
-        }
-      },
-      {
         "key": 1658240688746,
         "children": [],
         "todo": {
           "content": "Wie viele Variablen am Ende übergeben?",
           "id": 1658240688746,
           "level": "warning",
-          "done": false
-        }
-      },
-      {
-        "key": 1658240707289,
-        "children": [],
-        "todo": {
-          "content": "Baseline überprüfen",
-          "id": 1658240707289,
-          "level": "success",
           "done": false
         }
       }
