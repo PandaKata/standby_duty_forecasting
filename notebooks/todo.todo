@@ -2,42 +2,82 @@
   "todotree": {
     "tree": [
       {
-        "key": 1655145173666,
-        "children": [],
-        "todo": {
-          "content": "plot diagnostics besprechen, correlogram?",
-          "id": 1655145173666,
-          "level": "secondary",
-          "done": false
-        }
-      },
-      {
-        "key": 1658236656896,
-        "children": [],
-        "todo": {
-          "content": "sby_need with predicted n_sick: LR",
-          "id": 1658236656896,
-          "level": "danger",
-          "done": false
-        }
-      },
-      {
-        "key": 1658240688746,
-        "children": [],
-        "todo": {
-          "content": "Wie viele Variablen am Ende übergeben?",
-          "id": 1658240688746,
-          "level": "warning",
-          "done": false
-        }
-      },
-      {
         "key": 1658820068529,
         "children": [],
         "todo": {
           "content": "'day' umbenennen",
           "id": 1658820068529,
           "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1658835581095,
+        "children": [],
+        "todo": {
+          "content": "Modell Sara laufen lassen",
+          "id": 1658835581095,
+          "level": "danger",
+          "done": false
+        }
+      },
+      {
+        "key": 1658835597608,
+        "children": [],
+        "todo": {
+          "content": "Grid Search",
+          "id": 1658835597608,
+          "level": "danger",
+          "done": false
+        }
+      },
+      {
+        "key": 1658835608882,
+        "children": [],
+        "todo": {
+          "content": "Welche Features Lasso??",
+          "id": 1658835608882,
+          "level": "warning",
+          "done": false
+        }
+      },
+      {
+        "key": 1658835621763,
+        "children": [],
+        "todo": {
+          "content": "Aufgabe mit händisch prozentual weniger standby",
+          "id": 1658835621763,
+          "level": "warning",
+          "done": false
+        }
+      },
+      {
+        "key": 1658835640559,
+        "children": [],
+        "todo": {
+          "content": "Dienstplan plotten",
+          "id": 1658835640559,
+          "level": "success",
+          "done": false
+        }
+      },
+      {
+        "key": 1658835671477,
+        "children": [],
+        "todo": {
+          "content": "Code aufhübschen",
+          "id": 1658835671477,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1658836079278,
+        "children": [],
+        "todo": {
+          "content": "Check Scala",
+          "id": 1658836079278,
+          "level": "danger",
           "done": false
         }
       }
