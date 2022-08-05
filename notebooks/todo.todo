@@ -28,7 +28,7 @@
           "content": "Grid Search",
           "id": 1658835597608,
           "level": "danger",
-          "done": false
+          "done": true
         }
       },
       {
@@ -38,7 +38,7 @@
           "content": "Welche Features Lasso??",
           "id": 1658835608882,
           "level": "warning",
-          "done": false
+          "done": true
         }
       },
       {
@@ -48,7 +48,7 @@
           "content": "Aufgabe mit händisch prozentual weniger standby",
           "id": 1658835621763,
           "level": "warning",
-          "done": false
+          "done": true
         }
       },
       {
@@ -88,7 +88,17 @@
           "content": "RMSE ausgeben lassen",
           "id": 1659362254211,
           "level": "default",
-          "done": false
+          "done": true
+        }
+      },
+      {
+        "key": 1659710104171,
+        "children": [],
+        "todo": {
+          "content": "edit todo.",
+          "id": 1659710104171,
+          "level": "default",
+          "done": true
         }
       }
     ],
