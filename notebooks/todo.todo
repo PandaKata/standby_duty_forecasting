@@ -8,7 +8,7 @@
           "content": "'day' umbenennen",
           "id": 1658820068529,
           "level": "default",
-          "done": false
+          "done": true
         }
       },
       {
@@ -99,6 +99,26 @@
           "id": 1659710104171,
           "level": "default",
           "done": true
+        }
+      },
+      {
+        "key": 1659966256382,
+        "children": [],
+        "todo": {
+          "content": "Repo Struktur",
+          "id": 1659966256382,
+          "level": "default",
+          "done": false
+        }
+      },
+      {
+        "key": 1659966264848,
+        "children": [],
+        "todo": {
+          "content": "Gliederung",
+          "id": 1659966264848,
+          "level": "default",
+          "done": false
         }
       }
     ],
