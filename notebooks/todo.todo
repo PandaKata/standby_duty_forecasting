@@ -2,56 +2,6 @@
   "todotree": {
     "tree": [
       {
-        "key": 1658820068529,
-        "children": [],
-        "todo": {
-          "content": "'day' umbenennen",
-          "id": 1658820068529,
-          "level": "default",
-          "done": true
-        }
-      },
-      {
-        "key": 1658835581095,
-        "children": [],
-        "todo": {
-          "content": "Modell Sara laufen lassen",
-          "id": 1658835581095,
-          "level": "danger",
-          "done": true
-        }
-      },
-      {
-        "key": 1658835597608,
-        "children": [],
-        "todo": {
-          "content": "Grid Search",
-          "id": 1658835597608,
-          "level": "danger",
-          "done": true
-        }
-      },
-      {
-        "key": 1658835608882,
-        "children": [],
-        "todo": {
-          "content": "Welche Features Lasso??",
-          "id": 1658835608882,
-          "level": "warning",
-          "done": true
-        }
-      },
-      {
-        "key": 1658835621763,
-        "children": [],
-        "todo": {
-          "content": "Aufgabe mit händisch prozentual weniger standby",
-          "id": 1658835621763,
-          "level": "warning",
-          "done": true
-        }
-      },
-      {
         "key": 1658835640559,
         "children": [],
         "todo": {
@@ -72,36 +22,6 @@
         }
       },
       {
-        "key": 1658836079278,
-        "children": [],
-        "todo": {
-          "content": "Check Scala",
-          "id": 1658836079278,
-          "level": "danger",
-          "done": false
-        }
-      },
-      {
-        "key": 1659362254211,
-        "children": [],
-        "todo": {
-          "content": "RMSE ausgeben lassen",
-          "id": 1659362254211,
-          "level": "default",
-          "done": true
-        }
-      },
-      {
-        "key": 1659710104171,
-        "children": [],
-        "todo": {
-          "content": "edit todo.",
-          "id": 1659710104171,
-          "level": "default",
-          "done": true
-        }
-      },
-      {
         "key": 1659966256382,
         "children": [],
         "todo": {
@@ -112,13 +32,23 @@
         }
       },
       {
-        "key": 1659966264848,
+        "key": 1660301710391,
         "children": [],
         "todo": {
-          "content": "Gliederung",
-          "id": 1659966264848,
-          "level": "default",
-          "done": true
+          "content": "Tests Quality",
+          "id": 1660301710391,
+          "level": "danger",
+          "done": false
+        }
+      },
+      {
+        "key": 1660301721078,
+        "children": [],
+        "todo": {
+          "content": "Boxplots",
+          "id": 1660301721078,
+          "level": "warning",
+          "done": false
         }
       }
     ],
