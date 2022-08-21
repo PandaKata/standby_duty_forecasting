@@ -14,7 +14,7 @@ $ ls
    |- archive/  
       |- no-longer-useful.ipynb
 |- standby_project/                     <- all things refactored out of notebooks
-   |- __init__.py                       <- import functions and variables into our notebooks and scripts 
+   |- __init__.py                       <- import functions and variables 
    |- config.py                         <- special paths and variables used across the project
    |- setup.py                          <- file for the custom Python package
 |- README.md                            <- top-level README for all developers
