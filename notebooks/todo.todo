@@ -1,67 +1,6 @@
 {
   "todotree": {
-    "tree": [
-      {
-        "key": 1658835640559,
-        "children": [],
-        "todo": {
-          "content": "Dienstplan plotten",
-          "id": 1658835640559,
-          "level": "success",
-          "done": false
-        }
-      },
-      {
-        "key": 1658835671477,
-        "children": [],
-        "todo": {
-          "content": "Code aufhübschen",
-          "id": 1658835671477,
-          "level": "default",
-          "done": false
-        }
-      },
-      {
-        "key": 1659966256382,
-        "children": [],
-        "todo": {
-          "content": "Repo Struktur",
-          "id": 1659966256382,
-          "level": "default",
-          "done": false
-        }
-      },
-      {
-        "key": 1660301710391,
-        "children": [],
-        "todo": {
-          "content": "Tests Quality",
-          "id": 1660301710391,
-          "level": "danger",
-          "done": true
-        }
-      },
-      {
-        "key": 1660301721078,
-        "children": [],
-        "todo": {
-          "content": "Boxplots",
-          "id": 1660301721078,
-          "level": "warning",
-          "done": true
-        }
-      },
-      {
-        "key": 1660575130777,
-        "children": [],
-        "todo": {
-          "content": "feature importance hauptmodell",
-          "id": 1660575130777,
-          "level": "warning",
-          "done": false
-        }
-      }
-    ],
+    "tree": [],
     "expandKeys": [
       1654967633853,
       1654967645539,
