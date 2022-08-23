@@ -10,7 +10,7 @@ $ pwd
 $ ls
 |- notebooks/
    |- EDA.ipynb                         <- exploratory data analysis
-   |- feature_engineering.ipynb         <- create new columns, one-hot encode, etc.
+   |- feature_engineering.ipynb         <- create new columns, encode, etc.
    |- archive/  
       |- no-longer-useful.ipynb
 |- standby_project/                     <- all things refactored out of notebooks
@@ -20,7 +20,7 @@ $ ls
 |- README.md                            <- top-level README for all developers
 |- data/
    |- raw/                              <- raw data
-   |- feature_engineered/               <- data with one-hot encoded variables, new columns, etc.
+   |- feature_engineered/               <- data with encoded variables, new columns, etc.
 |- src/ 
    |- archive/
       |- no-longer-useful.py   
