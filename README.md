@@ -1,4 +1,4 @@
-# Task: Automation of Standby Duty Planning for Rescue Drivers via a Forecasting Model
+Task: Automation of Standby Duty Planning for Rescue Drivers via a Forecasting Model
 
 This project is the final result of my course "Model Engineering" in the third semester of my master studies (Data Science).
 
