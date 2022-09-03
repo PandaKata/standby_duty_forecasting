@@ -9,8 +9,8 @@ However, this project is not just about minimizing costs, but also about reducin
 
 ### structure
 
+```
 
-´´´
 |- notebooks/
    |- EDA.ipynb                         <- exploratory data analysis
    |- Baseline.ipynb                    <- baseline model
